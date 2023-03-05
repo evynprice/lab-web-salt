@@ -8,3 +8,5 @@ base:
     - ssh
     - ssh.config
     - timezone.config
+  'cloudpweb01':
+    - iptables.web
